@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Agatha de Camargo
 **`Desenvolvedora Back-end`**
 
-Me chamo Agatha de Camargo Russo, tenho 20 anos e sou natural de São Paulo,mas morando a 7 anos em Santa Catarina(Criciúma). Concluí o ensino médio no  EEB Abílio César Borges. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNESC. Sou apaixonada por tecnologia e dados.  Instragram particular:[agatha_c.russo](https://www.instagram.com/`@agatha_c.russo`/)".
+Me chamo Agatha de Camargo Russo, tenho 20 anos e sou natural de São Paulo,mas morando a 7 anos em Santa Catarina(Criciúma). Concluí o ensino médio no  EEB Abílio César Borges. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNESC. Sou apaixonada por tecnologia e dados.  Instragram particular:[@agatha_c.russo](https://www.instagram.com/`@agatha_c.russo`/)".
 
 
 
